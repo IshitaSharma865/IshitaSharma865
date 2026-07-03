@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Ishita Sharma 👋</h1>
 
 <p align="center">
-  Aspiring Data Analyst & AI Engineer &nbsp;|&nbsp; Building intelligent tools that solve real problems
+  Aspiring Data Scientist & AI,ML Enthusiast &nbsp;|&nbsp; Building intelligent tools that solve real problems
 </p>
 
 ---
 
 ### 🙋‍♀️ About Me
 
-I'm a fresher passionate about data and AI, currently building projects at the intersection of **data analysis** and **agentic AI**. I enjoy turning raw data into insights and building AI systems that actually *do* things — not just answer questions.
+I'm a fresher passionate about data and AI, currently building projects at the intersection of **data analysis** and **AI**. I enjoy turning raw data into insights and building AI systems that actually *do* things — not just answer questions.
 
-- 🔭 Currently building: an AI-powered mock interview agent with resume analysis
 - 🌱 Learning: LLMs, agentic AI, RAG pipelines, data visualization
 - 💼 Looking for: Data Analyst / AI Engineer roles
 - 📍 India
