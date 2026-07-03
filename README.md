@@ -1,64 +1,47 @@
-<h1 align="center">Hi, I'm Ishita Sharma 👋</h1>
+<h1 align="center">Hello! I'm Ishita Sharma ✨</h1>
 
 <p align="center">
-  Aspiring Data Scientist & AI,ML Enthusiast &nbsp;|&nbsp; Building intelligent tools that solve real problems
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=D97706&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;AI+Engineer+in+the+making+%F0%9F%A4%96;I+make+AI+that+actually+does+things+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🙋‍♀️ About Me
+📊 &nbsp;I find patterns in data that help people make better decisions
 
-I'm a fresher passionate about data and AI, currently building projects at the intersection of **data analysis** and **AI**. I enjoy turning raw data into insights and building AI systems that actually *do* things — not just answer questions.
+🤖 &nbsp;Currently deep in the world of **LLMs and AI**
 
-- 🌱 Learning: LLMs, agentic AI, RAG pipelines, data visualization
-- 💼 Looking for: Data Analyst / AI Engineer roles
-- 📍 India
+🌱 &nbsp;Always curious, always building something new
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; HTML/CSS/JavaScript
-
-**Data & Analytics**
-Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Matplotlib &nbsp;|&nbsp; Seaborn &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Tableau
-
-**AI & ML**
-Groq API &nbsp;|&nbsp; LLMs &nbsp;|&nbsp; Prompt Engineering &nbsp;|&nbsp; Scikit-learn
-
-**Tools & Frameworks**
-Flask &nbsp;|&nbsp; Git &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; Jupyter Notebook
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 [Interview Prep Agent](https://github.com/IshitaSharma865/interview-agent)
-An agentic AI mock interviewer that conducts multi-round interviews (Technical → HR → Case Study), evaluates answers in real time, analyses uploaded resumes, and generates a full feedback report.
-> Python · Flask · Groq API · LLaMA 3.3 · Agentic AI
-
-#### 📉 [Telecom Churn Analysis](https://github.com/IshitaSharma865/Telecom-Churn-Analysis)
-Exploratory data analysis on telecom customer churn — identifying key drivers of churn and visualizing patterns to support business decisions.
-> Python · Pandas · Matplotlib · Seaborn
-
-#### 🐦 [Twitter Sentiment Analysis](https://github.com/IshitaSharma865/Twitter-Sentiment-Analysis)
-NLP-based sentiment classification of tweets to determine public opinion trends.
-> Python · NLP · Scikit-learn
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-fde68a?style=for-the-badge&logo=python&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/SQL-fbbf24?style=for-the-badge&logo=mysql&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Pandas-fef3c7?style=for-the-badge&logo=pandas&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/NumPy-fde68a?style=for-the-badge&logo=numpy&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-fbbf24?style=for-the-badge&logo=scikitlearn&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Power BI-fef3c7?style=for-the-badge&logo=powerbi&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Tableau-fde68a?style=for-the-badge&logo=tableau&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Flask-fbbf24?style=for-the-badge&logo=flask&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Groq API-fef3c7?style=for-the-badge&logo=lightning&logoColor=78350f" />
+  <img src="https://img.shields.io/badge/Jupyter-fde68a?style=for-the-badge&logo=jupyter&logoColor=78350f" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshitaSharma865&show_icons=true&theme=warm&hide_border=true&bg_color=fffdf5&title_color=d97706&icon_color=fbbf24&text_color=78350f" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IshitaSharma865&show_icons=true&hide_border=true&bg_color=fffdf5&title_color=d97706&icon_color=fbbf24&text_color=78350f" />
 </p>
 
 ---
 
-### 📬 Let's connect
+### 📬 Let's connect!
 
-<p>
-  <a href="mailto:your@email.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin">💼 LinkedIn</a>
+<p align="center">
+  <a href="mailto:ishitasharma1029@gmail.com"><img src="https://img.shields.io/badge/Email-fbbf24?style=for-the-badge&logo=gmail&logoColor=78350f" /></a>
+  <a href="https://linkedin.com/in/<a href="https://linkedin.com/in/ishita-sharma-3b1426358">"><img src="https://img.shields.io/badge/LinkedIn-fde68a?style=for-the-badge&logo=linkedin&logoColor=78350f" /></a>
 </p>
