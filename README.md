@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=99999&color=60A5FA&center=true&vCenter=true&width=500&lines=Hello!+I%27m+Ishita+Sharma+%E2%9C%A8" alt="Hello! I'm Ishita Sharma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=35&pause=99999&color=60A5FA&center=true&vCenter=true&width=500&lines=Hello!+I%27m+Ishita+Sharma+%E2%9C%A8" alt="Hello! I'm Ishita Sharma" />
 </p>
 
 <p align="center">
