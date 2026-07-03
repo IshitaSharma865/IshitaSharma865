@@ -1,4 +1,6 @@
-<h1 align="center">Hello! I'm Ishita Sharma ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=99999&color=60A5FA&center=true&vCenter=true&width=500&lines=Hello!+I%27m+Ishita+Sharma+%E2%9C%A8" alt="Hello! I'm Ishita Sharma" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=e879a0&center=true&vCenter=true&width=500&lines=AI+%7C+ML+%7C+Data+Science" alt="Typing SVG" />
